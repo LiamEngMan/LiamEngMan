@@ -1,7 +1,12 @@
 ##  👋 Hello! My name is Liam, welcome to my GitHub! 
 
-[<img src="./LiamNesterLogo.png" width="100">](https://liamnester.github.io/)
-<h5> Check out my website! </h5>
+<center>
+<h5> Check out my website by clicking on the logo! </h5>
+</center>
+
+<p align="center">
+  <a href="https://liamnester.github.io/" </a><img width="200" src="./LiamNesterLogo.png"  >
+</p>
 
 ### I am a graduate student at The University of Alabama, Roll Tide!
 
