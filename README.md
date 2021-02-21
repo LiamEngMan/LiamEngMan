@@ -1,4 +1,4 @@
-##  👋 Hello! My name is Liam, welcome to my GitHub! 
+##  👋 Hello! My name is Liam. Welcome to my GitHub! 
 
 <center>
 <h5> Check out my website by clicking on the logo! </h5>
