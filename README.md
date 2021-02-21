@@ -1,16 +1,16 @@
-## <center> Hello! My name is Liam, welcome to my GitHub! </center>
+<center> 
 
-<center>
+##  Hello! My name is Liam, welcome to my GitHub! 
 
 <h5> Check out my website! </h5>
 
-[<img src="./LiamNesterLogo.png" width="100">](https://liamnester.github.io/)
+[<img align="middle" src="./LiamNesterLogo.png" width="100">](https://liamnester.github.io/)
 
 </center>
 
 ### I am a graduate student at The University of Alabama, Roll Tide!
 
-####Some of my technical interests are...
+#### Some of my technical interests are...
 
 - Advanced Thermal-Fluid Systems
 - In-Space Propulsion
