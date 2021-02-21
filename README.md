@@ -37,8 +37,6 @@ I am always looking to collaborate on projects and always willing to learn more!
 [<img align="left" alt="chttps://liamnester.github.io/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
----
-
 
 [website]: https://liamnester.github.io/
 [linkedin]: https://www.linkedin.com/in/liamnester/
