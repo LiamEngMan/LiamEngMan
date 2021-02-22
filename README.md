@@ -21,7 +21,7 @@
 #### I also like to...
 
 - Do anything outdoors ... especially hike 🥾 and fish 🎣
-- Look at the starts 🔭
+- Look at the stars 🔭
 - Watch football 🏈
 - ... and cheer on the Alabama Crimson Tide 🏆
 
